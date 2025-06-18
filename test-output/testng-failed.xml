@@ -7,7 +7,7 @@
         <methods>
           <include name="tearDown"/>
           <include name="init"/>
-          <include name="TC_001"/>
+          <include name="TC_006"/>
         </methods>
       </class> <!-- UC01.search -->
     </classes>

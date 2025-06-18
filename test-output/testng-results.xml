@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-18T11:19:10 ICT" name="Default suite" finished-at="2025-06-18T11:19:20 ICT" duration-ms="10216">
+  <suite started-at="2025-06-18T20:14:59 ICT" name="Default suite" finished-at="2025-06-18T20:15:31 ICT" duration-ms="32004">
     <groups>
     </groups>
-    <test started-at="2025-06-18T11:19:10 ICT" name="Default test" finished-at="2025-06-18T11:19:20 ICT" duration-ms="10216">
-      <class name="UC01.search">
-        <test-method is-config="true" signature="init()[pri:0, instance:UC01.search@1d119efb]" started-at="2025-06-18T11:19:10 ICT" name="init" finished-at="2025-06-18T11:19:20 ICT" duration-ms="9869" status="PASS">
+    <test started-at="2025-06-18T20:14:59 ICT" name="Default test" finished-at="2025-06-18T20:15:31 ICT" duration-ms="32004">
+      <class name="UC06.wishlist">
+        <test-method is-config="true" signature="init()[pri:0, instance:UC06.wishlist@659a969b]" started-at="2025-06-18T20:14:59 ICT" name="init" finished-at="2025-06-18T20:15:16 ICT" duration-ms="17042" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="TC_001()[pri:0, instance:UC01.search@1d119efb]" started-at="2025-06-18T11:19:20 ICT" name="TC_001" finished-at="2025-06-18T11:19:20 ICT" duration-ms="302" status="PASS">
+        <test-method signature="TC_005()[pri:0, instance:UC06.wishlist@659a969b]" started-at="2025-06-18T20:15:16 ICT" name="TC_005" finished-at="2025-06-18T20:15:30 ICT" duration-ms="13286" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_001 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:UC01.search@1d119efb]" started-at="2025-06-18T11:19:20 ICT" name="tearDown" finished-at="2025-06-18T11:19:20 ICT" duration-ms="0" status="PASS">
+        </test-method> <!-- TC_005 -->
+        <test-method signature="TC_006()[pri:0, instance:UC06.wishlist@659a969b]" started-at="2025-06-18T20:15:30 ICT" name="TC_006" finished-at="2025-06-18T20:15:31 ICT" duration-ms="1625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_006 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:UC06.wishlist@659a969b]" started-at="2025-06-18T20:15:31 ICT" name="tearDown" finished-at="2025-06-18T20:15:31 ICT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- UC01.search -->
+      </class> <!-- UC06.wishlist -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
